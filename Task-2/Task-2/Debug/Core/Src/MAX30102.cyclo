@@ -1,0 +1,10 @@
+../Core/Src/MAX30102.c:13:6:MAX30102_Init	1
+../Core/Src/MAX30102.c:45:6:MAX30102_ReadFifo	1
+../Core/Src/MAX30102.c:62:6:MAX30102_Reset	1
+../Core/Src/MAX30102.c:74:6:MAX30102_SetMode	1
+../Core/Src/MAX30102.c:87:6:MAX30102_SetSpO2Config	1
+../Core/Src/MAX30102.c:100:6:MAX30102_SetLedPulseAmplitude	1
+../Core/Src/MAX30102.c:138:6:MAX30102_WriteRegister	1
+../Core/Src/MAX30102.c:149:9:MAX30102_ReadRegister	1
+../Core/Src/MAX30102.c:157:7:calculate_spo2	4
+../Core/Src/MAX30102.c:175:7:MAX30102_ReadTemperature	1
